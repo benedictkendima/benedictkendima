@@ -155,9 +155,9 @@ Completed **nine hands-on Python projects**, each in its own repository with ful
 
 <!-- Replace the placeholders below with your real certificates and links -->
 
-- 🏅 Codveda Technologies, Python Internship Certificate: `[add link]`
-- 🏅 Blockfuselabs, Training Certificate: `[add link]`
-- 🏅 nHub Foundation, Training Certificate: `[add link]`
+- 🏅 Codveda Technologies, Python Internship Certificate: 
+- 🏅 Blockfuselabs, Training Certificate: 
+- 🏅 nHub Foundation, Training Certificate:
 
 ---
 
