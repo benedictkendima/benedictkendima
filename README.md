@@ -2,7 +2,7 @@
 
 # Hi, I'm Benedict 👋
 
-### Backend Developer · AI/ML Engineer · Web3 (Solana) Builder · CS Student from Jos, Nigeria 🇳🇬
+### Backend Developer · AI/ML Engineer · Web3 (Solana) Builder · Tutor/Mentor/Student
 
 *I turn real-world problems into clean, secure and scalable systems, from APIs to intelligent models to on-chain programs.*
 
@@ -130,7 +130,7 @@ Completed **nine hands-on Python projects**, each in its own repository with ful
 
 ## 🎒 Education & Training
 
-- 🎓 **B.Sc. Computer Science**: University of Jos, Nigeria
+- 🎓 **B.Sc. Computer Science**: University of Jos
 - 💻 **Backend Engineering Trainee**: Blockfuselabs
 - 🌍 **Tech Trainee**: nHub Foundation
 - 🐍 **Python Intern**: Codveda Technologies
